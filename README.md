@@ -26,9 +26,9 @@ Men Ahrorjon, dasturchiman va turli texnologiyalar bo‘yicha ishlashni yaxshi k
 
 ### 📊 GitHub Statistikalarim:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=foydalanuvchi&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=softwareuz&show_icons=true&theme=radical)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=foydalanuvchi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=softwareuz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
